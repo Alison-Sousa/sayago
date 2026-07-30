@@ -1,0 +1,25 @@
+SAYAGO · GOVERNANÇA & CONSELHOS
+
+COMO ABRIR NO COMPUTADOR
+1. Descompacte o arquivo ZIP.
+2. Abra a pasta "sayago-site".
+3. Clique duas vezes em "index.html".
+
+COMO PUBLICAR NO NETLIFY
+1. Acesse o Netlify e escolha a opção de publicação manual.
+2. Arraste a pasta "sayago-site" inteira para a área indicada.
+3. Depois da publicação, conecte o domínio sayago.co no painel do Netlify.
+
+ESTRUTURA
+- index.html: conteúdo do site
+- styles.css: cores, tipografia e layout responsivo
+- script.js: menu móvel e animações
+- assets/: foto, favicon, currículo e certificado
+
+CONTATOS CONFIGURADOS
+- Jorge.sayago@sayago.co
+- +55 (47) 99115 8204
+- linkedin.com/in/jasayago
+
+O site está pronto para desktop, tablet e celular. Nenhuma hospedagem ou
+vinculação ao domínio foi realizada.
